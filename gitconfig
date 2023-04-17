@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lelemcampos@gmail.com
+	name = alessandra medeiros de campos
